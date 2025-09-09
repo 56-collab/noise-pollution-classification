@@ -6,7 +6,7 @@ This project uses Machine Learning (ML) to detect and classify urban sounds (e.g
 📂Project Structure
 
 NoisePollutionClassifier/
-│
+│          
 ├── data_exploration/
 │   └── data_exploration.ipynb                          # Loads dataset, extracts features (MFCC, etc.)
 │
